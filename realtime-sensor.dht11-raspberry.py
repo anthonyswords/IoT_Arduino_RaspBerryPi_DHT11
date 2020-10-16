@@ -2,7 +2,7 @@ import cayenne.client
 import time
 import Adafruit_DHT
 sensor= Adafruit_DHT.DHT11
-gpio_pin=26
+gpio_pin=8
 
 # Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
 MQTT_USERNAME  = "62e61850-0c91-11eb-8779-7d56e82df461"
